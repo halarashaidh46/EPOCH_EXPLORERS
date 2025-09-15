@@ -2,6 +2,11 @@
 # Face Detection Project
 
 This project is deployed as a web app on Hugging Face Spaces: [Try it here](https://huggingface.co/spaces/JanaBot/face_detection)
+##  Demo Video
+
+You can watch the demo video of the project via this link:
+
+[Demo Video on Google Drive](https://drive.google.com/drive/folders/18WJbMK67WCK5X7LslvuA7AUx79g_QCAp)
 
 
 ## Project Overview
