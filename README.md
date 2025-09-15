@@ -1,4 +1,8 @@
 # EPOCH_EXPLORERS – Face Recognition Login with Jarvis Voice Assistant
+# Face Detection Project
+
+This project is deployed as a web app on Hugging Face Spaces: [Try it here](https://huggingface.co/spaces/JanaBot/face_detection)
+
 
 ## Project Overview
 EPOCH_EXPLORERS introduces a secure face-recognition login system that seamlessly transitions into a voice-controlled AI assistant (Jarvis).  
